@@ -1,0 +1,100 @@
+footer a img{
+  width:30px
+}
+.links{
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content:center;
+  gap:10px
+}
+.btn1{
+  background-color: rgba(192, 47, 228, 0.795);
+  color:white;
+  border:none;
+  border-radius:4px;
+  padding:4px 14px 4px 14px;
+}
+.btn2{
+  border:1px solid rgba(192, 47, 228, 0.795);
+  color:rgba(192, 47, 228, 0.795);
+  border-radius: 4px;
+  padding:4px 14px 4px 14px;
+}
+.profile{
+  background-color: rgb(242, 245, 245);
+  width:90%;
+  height:400px;
+  line-height: 30px;
+  margin:auto;
+  align-items: center;
+  padding:20px;
+  justify-content:space-between;
+  border-radius: 4px;
+}
+.profile-div{
+  width:90%;
+  max-width: 800px;
+}
+.img1{
+  width:270px;
+  height:280px;
+  border-radius:50%;
+}
+.btn1:hover{
+  border:1px solid rgba(192, 47, 228, 0.795);
+  background-color: white;
+  color: rgba(192, 47, 228, 0.795);
+  
+}
+.btn2:hover{
+  background-color:rgba(192, 47, 228, 0.795);
+  color: white;
+}
+.html-icon-label{
+  height:100px
+}
+.skill-icons{
+  height:80px;
+  margin-top: 20px;
+}
+.skill-icons-div{
+  justify-content: space-between;
+  height:170px;
+}
+.skill-div{
+  background-color: rgb(242, 245, 245);
+  padding: 10px;
+  width:90%;
+  margin:auto;
+}
+.skill-lang{
+  font-size: 20px;
+}
+.services{
+  width:90%;
+  margin: auto;
+  background-color: rgb(242, 245, 245);
+}
+.service-details{
+grid-template-columns: 1fr 1fr 1fr 1fr;
+line-height: 30px;
+text-align: center;
+}
+.service-icons{
+height:20px
+}
+.project-div{
+width:90%;
+margin: auto;
+}
+.git-icon{
+height:20px
+}
+.lpn-img{
+width:280px;
+height:200px;
+}
+.lpn{
+justify-content: space-between;
+}
